@@ -12,11 +12,8 @@
 ### [🔬 Bioinformatics Notebook](https://rnnh.github.io/bioinfo-notebook/)
 
 [![Build Status](https://travis-ci.com/rnnh/bioinfo-notebook.svg?branch=master)](https://travis-ci.com/rnnh/bioinfo-notebook)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub issues](https://img.shields.io/github/issues/rnnh/bioinfo-notebook)
-![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/bioinfo-notebook)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Frnnh.github.io%2Fbioinfo-notebook)
-[![DOI](https://zenodo.org/badge/243280413.svg)](https://zenodo.org/badge/latestdoi/243280413)
+![GitHub Repo stars](https://img.shields.io/github/stars/rnnh/bioinfo-notebook?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rnnh/bioinfo-notebook?style=social)
 
 A website documenting programs used in computational biology.
 
@@ -25,7 +22,8 @@ A website documenting programs used in computational biology.
 ### [📊 Ronan's #TidyTuesday blog](https://tidytuesday.netlify.app/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f8211364-bd13-41ac-97b2-e9ed92e9c615/deploy-status)](https://app.netlify.com/sites/tidytuesday/deploys)
-![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/TidyTuesday)
+![GitHub Repo stars](https://img.shields.io/github/stars/rnnh/TidyTuesday?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rnnh/TidyTuesday?style=social)
 
 A data science blog with reproducible results.
 
@@ -34,8 +32,8 @@ A data science blog with reproducible results.
 ### [📊 covidgraphics](https://rnnh.shinyapps.io/covidgraphics/)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rnnh/covidgraphics)
-![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/covidgraphics)
-![GitHub](https://img.shields.io/github/license/rnnh/covidgraphics)
+![GitHub Repo stars](https://img.shields.io/github/stars/rnnh/covidgraphics?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rnnh/covidgraphics?style=social)
 
 A web application visualising up-to-date COVID-19 data.
 
@@ -43,14 +41,19 @@ A web application visualising up-to-date COVID-19 data.
 
 ### [🎵 vaporiser](https://github.com/rnnh/vaporiser)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rnnh/vaporiser)
-![GitHub](https://img.shields.io/github/license/rnnh/vaporiser)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rnnh/vaporiser)
+![GitHub Repo stars](https://img.shields.io/github/stars/rnnh/vaporiser?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rnnh/vaporiser?style=social)
 
 A program for remixing songs.
 
 -----
 
 ### [🧮 ProjectEuler](https://github.com/rnnh/ProjectEuler)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rnnh/ProjectEuler)
+![GitHub Repo stars](https://img.shields.io/github/stars/rnnh/ProjectEuler?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rnnh/ProjectEuler?style=social)
 
 A collection of benchmarked programs for solving maths problems.
 
